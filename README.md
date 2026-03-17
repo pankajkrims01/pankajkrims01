@@ -1,5 +1,5 @@
 # Hi there! I'm Pankaj kumar singh
-## n About Me
+## About Me
  Senior PHP/Laravel Architect with 12+ years experience
  Currently exploring: Laravel Octane, Event Sourcing, CQRS
  Building scalable systems for high-traffic applications
