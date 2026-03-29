@@ -1,3 +1,13 @@
+## 👋 Hi, I'm Pankaj Kumar Singh
+
+Senior Laravel Developer with 12+ years of experience in building scalable web applications, REST APIs, and enterprise backend systems.
+
+💡 Expertise in PHP 8+, Laravel, MySQL, Redis, AWS, Docker, CI/CD, and Microservices  
+🚀 Built systems serving 10,000+ users  
+⚡ Improved performance by 35% using caching & optimization  
+👨‍💻 Strong focus on clean architecture, performance, and scalability  
+
+📫 Open to Full-time | Remote | Contract Opportunities
 ## 🚀 Tech Stack
 
 ### 👨‍💻 Backend Development
