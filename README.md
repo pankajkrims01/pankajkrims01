@@ -1,9 +1,5 @@
-# Hi there! I'm Pankaj kumar singh
-## About Me
- Senior PHP/Laravel Architect with 12+ years experience
- Currently exploring: Laravel Octane, Event Sourcing, CQRS
- Building scalable systems for high-traffic applications
- Based in New Delhi, India
+Hi, I am Pankaj Kumar Singh, a Senior Laravel Developer with 12+ years of experience in PHP, Laravel, REST API development, MySQL, Redis, AWS, Docker, and scalable backend architecture. I focus on building secure, maintainable, and high-performance web applications for real business use cases.
+Based in New Delhi, India
  Tech Stack
 [PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo;=php)
 [Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo;=laravel)
