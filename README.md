@@ -1,63 +1,96 @@
-# Hi 👋 I'm Pankaj Kumar Singh
+# Hi, I'm Pankaj Kumar Singh 👋
 
-## Senior Laravel Developer | PHP Backend Engineer | 12+ Years Experience
+Senior Laravel & PHP Developer with 12+ years of experience designing, developing, and optimizing scalable backend applications, REST APIs, enterprise systems, and high-performance web platforms.
 
-I am a Senior Laravel Developer with over 12 years of experience in designing, developing, and maintaining scalable enterprise web applications and REST APIs using Laravel and PHP.
+I specialize in backend architecture, API development, database optimization, caching, asynchronous processing, and building maintainable systems using modern PHP and Laravel practices.
 
-My expertise includes backend architecture, API development, performance optimization, database design, cloud deployment, and technical leadership.
+## 🚀 What I Do
 
-## 🚀 Core Skills
+* Design scalable and maintainable Laravel applications
+* Build secure REST APIs and third-party integrations
+* Optimize application and database performance
+* Implement Redis caching and queue-based processing
+* Design asynchronous and event-driven workflows
+* Work with RabbitMQ, background jobs, and Laravel Horizon
+* Build containerized applications using Docker
+* Improve code quality through testing, reviews, and engineering standards
+* Contribute to technical architecture and mentor development teams
 
-* Laravel
-* PHP 8
-* REST API Development
-* MySQL
-* Redis
-* Docker
-* AWS
-* Git
-* CI/CD
-* Linux
-* RabbitMQ
-* Kubernetes
-* Authentication & Authorization
-* Payment Gateway Integration
-* API Integration
-* Queue Processing
-* Performance Optimization
-* Database Optimization
-* MVC Architecture
-* Object-Oriented Programming (OOP)
-* SOLID Principles
-* Design Patterns
+## 💻 Core Technology Stack
 
-## 💼 What I Build
+### Backend
 
-* Enterprise Applications
-* HRMS
-* ERP
-* eCommerce Platforms
-* Booking Systems
-* Admin Panels
-* CRM
-* Payroll Systems
-* Inventory Management
-* Business Automation Solutions
+PHP 8+ • Laravel • Symfony • CodeIgniter
 
-## 📈 Highlights
+### APIs & Architecture
 
-* 12+ Years Experience
-* Led Team of 7+ Developers
-* Improved Performance by 35%
-* Reduced Production Bugs by 25%
-* Built Systems Supporting 10,000+ Daily Users
-* Designed Secure REST APIs
-* Immediate Joiner
+REST APIs • API Design • Microservices • Event-Driven Architecture • SOLID • OOP • MVC
 
-## 📫 Connect With Me
+### Databases & Performance
 
-LinkedIn:
-https://www.linkedin.com/in/pankaj-kumar-singh-laravel/
+MySQL • PostgreSQL • Redis • Database Indexing • Query Optimization • Caching
 
-GitHub:
-https://github.com/pankajkrims01
+### Asynchronous Processing
+
+Laravel Queues • Laravel Horizon • RabbitMQ • Events & Listeners • Background Jobs
+
+### DevOps & Cloud
+
+Docker • Kubernetes • AWS • Linux • Git • CI/CD
+
+### Security & Testing
+
+Laravel Sanctum • JWT • RBAC • Authentication • Authorization • PHPUnit • Feature Testing
+
+## 📌 Featured Engineering Projects
+
+### Laravel API Gateway
+
+A centralized API Gateway demonstrating secure API communication, authentication, rate limiting, Redis caching, request logging, API versioning, and service routing.
+
+### Event-Driven Laravel System
+
+A backend architecture demonstrating events, listeners, queues, RabbitMQ, asynchronous processing, retry strategies, and failure handling.
+
+### Large-Scale Data Processing
+
+A practical project focused on handling millions of database records efficiently using indexing, cursor pagination, chunkById(), lazyById(), query optimization, Redis, and background processing.
+
+### Enterprise HRMS
+
+A modular enterprise backend application demonstrating employee management, attendance, payroll workflows, role-based access control, APIs, testing, and scalable Laravel architecture.
+
+### High-Performance E-Commerce Backend
+
+A backend platform demonstrating product management, inventory, orders, payments, Redis caching, asynchronous notifications, database optimization, and API architecture.
+
+### Backend System Design
+
+Architecture documentation and technical case studies covering scalable APIs, caching, queues, database scaling, high availability, and distributed backend systems.
+
+## 🏗️ Engineering Focus
+
+I enjoy solving problems related to:
+
+* Backend architecture
+* Scalable APIs
+* High-performance systems
+* Database optimization
+* Redis caching
+* Large-scale data processing
+* Event-driven architecture
+* Asynchronous processing
+* System design
+* Technical leadership
+
+## 🎯 Open To Opportunities
+
+Senior Laravel Developer • Senior PHP Developer • Backend Engineer • Technical Lead
+
+Open to Full-Time, Remote, Hybrid, and Contract opportunities.
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories and connect with me for backend engineering, Laravel, system design, and technical collaboration.
+
+⭐ My goal is to build clean, scalable, secure, and production-oriented backend systems.
